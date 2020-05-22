@@ -6,7 +6,7 @@
 
 手作業での更新
   test gogogo!!!
-
-  branch dev
+  
+  master branch
  </body>
 </html>
