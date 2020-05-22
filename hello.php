@@ -4,11 +4,6 @@
  <body>
  Hello World<p>
 
-
- Second World!
-
- Take it
-
- 丸々です。
+dev source !!!
  </body>
 </html>
