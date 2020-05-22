@@ -4,13 +4,7 @@
  <body>
  Hello World<p>
 
-
- Second World!
-
- Take it
-
- 丸々です。
-  
+手作業での更新
   test gogogo!!!
  </body>
 </html>
