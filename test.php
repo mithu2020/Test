@@ -1,4 +1,4 @@
 testfile
 
 
-update
+conflict check
